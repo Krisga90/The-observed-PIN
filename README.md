@@ -1,4 +1,5 @@
-easiest recursive way to solw cata from codewars.com
+# easiest recursive way to solw cata from codewars.com
+
 "The observed PIN
 
 To run
